@@ -1,118 +1,38 @@
-[0814/193811.838:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0814/215054.385:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0814/220228.425:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
 
-[0814/193811.971:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0814/220228.880:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
 
-[0814/193812.904:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0814/193812.919:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0814/193812.921:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0814/193943.672:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0814/195915.255:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/195915.297:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200653.369:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200653.371:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200658.377:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200658.391:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200703.381:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200703.412:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200708.391:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200708.423:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200713.398:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200713.443:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200718.402:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200718.453:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200723.409:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200723.460:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200728.413:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200728.476:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200733.420:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/200733.490:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/204754.327:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/204754.334:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/204919.476:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/204919.487:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/204919.529:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/204919.535:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/205932.589:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/205932.604:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/210501.106:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/210501.148:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211024.069:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211024.087:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211101.045:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0814/220248.874:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
 
-[0814/211101.154:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0814/220248.987:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
 
-[0814/211103.892:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0814/211103.908:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0814/211103.910:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0814/211103.914:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0814/211104.068:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(381,10-38): warning X4008: floating point division by zero
-C:\fakepath(381,10-38): warning X4008: floating point division by zero
-
-[0814/211118.052:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0814/220456.399:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
 
-[0814/211118.166:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0814/220456.504:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
 
-[0814/211119.249:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0814/220458.438:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
 
-[0814/211119.250:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0814/220458.442:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
 
-[0814/211119.255:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0814/220458.454:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
 
-[0814/211119.271:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0814/211119.360:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0814/220458.593:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(381,10-38): warning X4008: floating point division by zero
 C:\fakepath(381,10-38): warning X4008: floating point division by zero
 
-[0814/211148.874:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211148.874:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211148.931:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211148.937:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211320.176:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211320.183:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211320.249:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211320.254:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211507.235:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211507.252:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211507.303:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211507.304:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211714.840:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211714.841:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211714.891:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211714.898:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211900.667:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211900.703:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211900.790:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0814/211900.803:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
